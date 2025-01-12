@@ -27,3 +27,5 @@ In this project, we will use the following machine learning techniques to build,
 We will optimize the models through **hyperparameter tuning** 🔧 and evaluate their performance with metrics like **accuracy**, **precision**, **recall**, and **F1 score**. 📊
 
 ## Let's Dive In! 🚀
+
+https://www.kaggle.com/code/mehmetisik/diabetes-eda-ml-prediction
