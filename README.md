@@ -98,6 +98,8 @@ This project employs a diverse set of machine learning techniques to preprocess,
      - A gradient boosting framework that uses histogram-based techniques to speed up the training process and reduce memory consumption.
      - Works well with large datasets and high-dimensional data.
 
+<img src="doc/picture_1.PNG" />
+
 ### 5. **Deep Learning Model with Keras 🧠**
    - **Objective**: Build a neural network model with multiple dense layers to capture complex non-linear relationships in the data.
    - **Architecture**:
@@ -106,10 +108,14 @@ This project employs a diverse set of machine learning techniques to preprocess,
      - Dropout and Batch Normalization to improve generalization and prevent overfitting.
    - **Optimization**: The model is trained using the **Adam optimizer** and **binary cross-entropy loss** to predict diabetes diagnosis with a high degree of accuracy.
 
+<img src="doc/picture_2.PNG" />
+
 ### 6. **Model Optimization and Evaluation 🔧**
    - **Hyperparameter Tuning**: Grid search and randomized search techniques are applied to tune model parameters for optimal performance.
    - **Evaluation Metrics**: Each model is evaluated based on accuracy, precision, recall, F1 score, and AUC (Area Under the Curve).
    - **Cross-validation**: K-fold cross-validation is used to evaluate model stability and avoid overfitting.
+
+<img src="doc/picture_3.PNG" />
 
 ## Results and Insights 📊
 
@@ -125,11 +131,14 @@ The models were evaluated based on their predictive performance and interpretabi
    - **Logistic Regression** and **SVC** offered decent performance but struggled to match the deep learning model’s capacity for non-linear data.
    - **KNN**, **AdaBoost**, and **Gradient Boosting** performed well but faced challenges in handling complex patterns without proper hyperparameter tuning.
 
+<img src="doc/picture_4.PNG" />
+
 ### **Key Insights**:
 - **Deep Learning** proved to be effective in terms of predictive power, but it requires more computational resources compared to traditional models.
 - **XGBoost**, **Random Forest**, and **SVC** performed similarly with competitive accuracy, making them viable alternatives for scenarios with less data or fewer resources.
 - **Logistic Regression** is a strong baseline model for binary classification tasks, while **KNN** and **AdaBoost** can be useful in simpler, well-defined problems.
 
+<img src="doc/picture_5.PNG" />
 ## Conclusion 🏁
 
 This project demonstrates the power of machine learning in predicting diabetes diagnosis using a variety of models, including **deep learning** and traditional classifiers. The models tested show different strengths, with **XGBoost**, **Random Forest**, and **SVC** providing strong performance in terms of **accuracy** and **AUC**. However, the **deep learning model** offers an edge in handling more complex data, provided that computational resources are available.
