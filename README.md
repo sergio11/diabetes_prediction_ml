@@ -172,6 +172,24 @@ A special thank you to **Mehmet ISIK** for the invaluable inspiration provided t
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
+## Contribution
+
+Contributions to this project are highly encouraged! If you're interested in adding new features, resolving bugs, or enhancing the project's functionality, please feel free to submit pull requests.
+
+## Get in Touch 📬
+
+this project is developed and maintained by **Sergio Sánchez Sánchez** (Dream Software). Special thanks to the open-source community and the contributors who have made this project possible. If you have any questions, feedback, or suggestions, feel free to reach out at  [dreamsoftware92@gmail.com](mailto:dreamsoftware92@gmail.com).
+
+## Visitors Count
+
+<img width="auto" src="https://profile-counter.glitch.me/diabetes_prediction_ml/count.svg" />
+
+## Please Share & Star the repository to keep me motivated.
+  <a href = "https://github.com/sergio11/diabetes_prediction_ml/stargazers">
+     <img src = "https://img.shields.io/github/stars/sergio11/diabetes_prediction_ml" />
+  </a>
+
+
 ## License ⚖️
 
 This project is licensed under the MIT License, an open-source software license that allows developers to freely use, copy, modify, and distribute the software. 🛠️ This includes use in both personal and commercial projects, with the only requirement being that the original copyright notice is retained. 📄
