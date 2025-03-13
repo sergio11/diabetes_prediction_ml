@@ -18,6 +18,12 @@ The goal is to build a **robust, interpretable model** with high accuracy, provi
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
 
+## ⚠️ Disclaimer
+
+This project, **Predicting Diabetes Diagnosis Using Machine Learning**, is an **educational and experimental exploration** of machine learning techniques for predicting diabetes diagnosis based on medical data. The primary goal of this work is to develop and evaluate a machine learning model using publicly available data from the **National Institute of Diabetes and Digestive and Kidney Diseases**.
+
+This repository is intended for learning and experimentation in the field of machine learning and data science.
+
 ## 🌟 Explore My Other Cutting-Edge AI Projects! 🌟
 
 If you found this project intriguing, I invite you to check out my other AI and machine learning initiatives, where I tackle real-world challenges across various domains:
@@ -166,6 +172,12 @@ By carefully selecting the right model based on the problem at hand, healthcare 
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [Diabetes EDA ML prediction Mehmetisik](https://www.kaggle.com/code/mehmetisik/diabetes-eda-ml-prediction)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+
+## ⚠️ Disclaimer
+
+This project, **Predicting Diabetes Diagnosis Using Machine Learning**, is an **educational and experimental exploration** of machine learning techniques for predicting diabetes diagnosis based on medical data. The primary goal of this work is to develop and evaluate a machine learning model using publicly available data from the **National Institute of Diabetes and Digestive and Kidney Diseases**.
+
+This repository is intended for learning and experimentation in the field of machine learning and data science.
 
 ## **🙏 Acknowledgments**
 
