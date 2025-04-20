@@ -1,10 +1,12 @@
 # Predicting Diabetes Diagnosis Using Machine Learning 📊💉
 
-Diabetes remains a critical global health challenge, affecting millions annually. Early diagnosis is essential for improving patient outcomes, and this project is dedicated to developing a **machine learning model** aimed at predicting whether a patient has diabetes based on key medical data. 🧑‍⚕️💡
+As part of a hands-on learning experience in machine learning, this project focuses on building a predictive model to assist in the **early diagnosis of diabetes**, a chronic condition that affects millions of people worldwide each year. Early detection can significantly improve treatment outcomes, and this project explores how data-driven methods can support that goal. 🧑‍⚕️💡
 
-We leverage a dataset from the **National Institute of Diabetes and Digestive and Kidney Diseases**, specifically focusing on **female patients of Pima Indian heritage, aged 21 and older**. The dataset includes various medical attributes such as glucose levels, blood pressure, BMI, and more. The goal is to analyze these features to create an **accurate and reliable predictive model** that can aid healthcare professionals in early diagnosis and decision-making. 📈🔍
+I worked with a well-known dataset from the **National Institute of Diabetes and Digestive and Kidney Diseases**, which includes medical data from **female patients of Pima Indian heritage aged 21 and older**. The dataset features clinical variables such as glucose levels, blood pressure, BMI, and more. By analyzing these features, I aimed to create an **accurate and interpretable machine learning model** capable of predicting the likelihood of diabetes in patients. 📈🔍
 
-The goal is to build a **robust, interpretable model** with high accuracy, providing insights into the factors influencing diabetes diagnosis and offering a powerful tool for early detection and intervention. 🏥🔬
+This project was not only about model performance — it was also about understanding the **relationship between clinical data and diagnosis**, interpreting feature importance, and applying ethical considerations when working with health-related data. The ultimate goal was to develop a solution that is both **reliable and insightful**, while reinforcing core machine learning concepts through practical application. 🏥🔬
+
+It’s a great example of how a course project can turn theory into practice, combining technical skills with real-world impact.
 
 <p align="center">
    <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
@@ -17,6 +19,8 @@ The goal is to build a **robust, interpretable model** with high accuracy, provi
 </p>
 
 🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
+
+Special thank you to **Mehmet ISIK** for the invaluable inspiration provided through his project, [**Diabetes EDA & ML Prediction**](https://www.kaggle.com/code/mehmetisik/diabetes-eda-ml-prediction). His work laid the foundation for the development of this model and greatly influenced the approach taken in this project.
 
 ## ⚠️ Disclaimer
 
